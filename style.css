@@ -3,3 +3,59 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  color:  red;
+}
+
+header{
+  text-align: center
+}
+
+
+a{
+  padding-right: 10px;
+  padding-left: 10px;
+  color: green;
+}
+
+figure{
+  text-align: center;
+}
+
+figcaption{
+  font-size: small;
+}
+
+.ex{
+   width: 800px;
+   padding-left: 20%;
+}
+
+.first{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
+.second{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
+.third{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
+
+.fourth{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
